@@ -9,7 +9,7 @@
 🌱 &nbsp;Currently focused on Python, Java, NLP, and web development from A to Z.<br>
 ✍️ &nbsp;In my free time, I enjoy learning English and improving my design skills.<br>
 💬 &nbsp;I'm open to collaboration, feedback, and exciting discussions around tech and learning.<br>
-✉️ &nbsp;Reach me at <a href="mailto:rahmalaatil47@gmail.com">rahma.laatil@gmail.com</a>!<br>
+✉️ &nbsp;Reach me at <a href="mailto:rahmalaatil47@gmail.com">rahmalaatil47@gmail.com</a>!<br>
 📄 &nbsp;Check out my <a href="https://rahmalaatil.github.io/resume">Résumé</a> to learn more.</p>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/rahmalaatil/rahmalaatil/master/assets/Night-Coding.gif" align="right">
