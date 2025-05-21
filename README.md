@@ -1,4 +1,4 @@
-<p><img src="https://raw.githubusercontent.com/rahmalaatil/rahmalaatil/master/assets/Rahma%20Laatil%20Banner.jpg" alt="Rahma Laatil Banner"></p>
+<p><img src="https://raw.githubusercontent.com/rahmalaatil/rahmalaatil/master/assets/Rahma%20Laatil%20Banner.jpg" alt="Rahma Laatil"></p>
 
 <p><img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"></p>
 <h2>Hey there! I’m Rahma</h2>
